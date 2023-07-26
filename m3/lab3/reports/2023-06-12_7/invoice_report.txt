@@ -1,0 +1,4 @@
+Test report for invoice tests.
+Error in test_invoice_add_item_appends_item: Incorrect item
+  - Expected: <invoice.Item object at 0x100551120>
+  - Actual: <invoice.Item object at 0x1005510c0>
